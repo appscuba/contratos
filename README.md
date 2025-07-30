@@ -65,8 +65,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install apache2 -y
 
 # Instalar PHP 8.0 y extensiones necesarias
-sudo apt install php8.0 php8.0-mysql php8.0-pdo php8.0-json php8.0-mbstring php8.0-curl php8.0-gd php8.0-zip libapache2-mod-php8.0 -y
-
+sudo apt install php8.1 php8.1-mysql php8.1-pdo php8.1-json php8.1-mbstring php8.1-curl php8.1-gd php8.1-zip libapache2-mod-php8.1 -y
 # Instalar MySQL
 sudo apt install mysql-server -y
 
