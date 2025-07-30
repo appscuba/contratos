@@ -326,9 +326,9 @@ Para contribuir al proyecto:
 Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
 ## 📞 Soporte
-
++53 53274074
 Para soporte técnico:
-- **Email**: soporte@tu-empresa.com
+- **Email**: appscuba@gmail.com
 - **Documentación**: [Wiki del proyecto]
 - **Issues**: [GitHub Issues]
 
